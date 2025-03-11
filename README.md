@@ -1,2 +1,2 @@
 # faithcommunicationtimeline
-This repository is a visual timeline for the Faith Communication Program sponsored by the Vatican's Dicastery for Communication.
+The program, sponsored by the Dicastery for Communication, sought to address the challenge of how the Church can and should be present online to adequately respond  to people’s spiritual needs, especially given the COVID-19 crisis. Our group of 16 young communicators from Cambodia, Canada, Costa Rica, Italy, Kenya, Mexico, Peru, the Philippines, South Korea, Spain, the United Kingdom, and the United States embarked upon a new and exciting journey over the next year together.
